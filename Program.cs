@@ -6,6 +6,7 @@ namespace PlayWithTypes
 	{
 		public static void Main (string[] args)
 		{
+			Console.WriteLine ('J'AI MODIFIE");
 			Console.WriteLine ("Hello World!");
 
 			Console.WriteLine("Function FACT :");
